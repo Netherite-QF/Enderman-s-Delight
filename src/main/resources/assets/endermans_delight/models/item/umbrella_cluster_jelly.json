@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "endermans_delight:item/umbrella_cluster_jelly"
+  }
+}

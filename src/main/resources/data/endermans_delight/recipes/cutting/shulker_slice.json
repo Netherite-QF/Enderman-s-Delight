@@ -1,0 +1,23 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "endermans_delight:catched_shulker"
+      }
+    ],
+    "tool": {
+      "type": "farmersdelight:tool",
+      "tag": "c:tools/axes"
+    },
+    "result": [
+      {
+        "count": 2,
+        "item": "endermans_delight:shulker_slice"
+      },
+      {
+        "chance": 0.3,
+        "count": 2,
+        "item": "minecraft:shulker_shell"
+      }
+    ]
+  }
